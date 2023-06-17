@@ -1,0 +1,27 @@
+Labor Market Evaluation
+
+-As you get closer to choosing which pathway you’d like to pursue for the rest of the course,
+(Data Analysis with Python, Software Development with C#, or Web Development with JavaScript),
+ you’ll complete a Labor Market Evaluation to help determine which path may best fit your interests and career goals. 
+
+-In addition to conducting your own research, you will also attend a “Choose your Pathway” workshop 
+to get more information as you make your final decision.
+
+
+
+1.Define each of the three pathways (Data Analysis, Software Development, and Web Development) in your own words. 
+
+2.Provide a link to an open job for each of the three pathways.
+Please also list the company and job title with the URL in case the link expires before our team is able to review your submission. 
+
+3.List what technical and transferable skills you currently possess that would be useful 
+for each of the positions you shared above.
+
+
+4.With the information you've gathered so far, which pathway are you leaning toward pursuing and why?
+
+Note: You'll make your official choice after the pathways workshop 
+(and will have a chance to ask our staff questions regarding the options), 
+
+but we want you to start thinking about it ahead of time!
+ 
